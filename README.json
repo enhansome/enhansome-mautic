@@ -1,0 +1,524 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mautic/mautic",
+          "description": "Mautic Open Source Marketing Automation Software Official Repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-13T20:16:51Z",
+            "owner": "mautic",
+            "repo": "mautic",
+            "stars": 10330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mautic/docker-mautic",
+          "description": "Official Docker Image for Mautic",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-05T17:25:35Z",
+            "owner": "mautic",
+            "repo": "docker-mautic",
+            "stars": 481
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mauitic/api-library",
+          "description": "Mautic PHP API Library Wrapper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-16T06:11:03Z",
+            "owner": "mautic",
+            "repo": "api-library",
+            "stars": 203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mautic/wordpress",
+          "description": "Wordpress Plugin to add Tracking Code and Custom Shortcodes for using Forms, Tags, Focus and Dinamic Content on Wordpress Pages",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-08T06:48:09Z",
+            "owner": "mautic",
+            "repo": "mautic-wordpress",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mautic/documentation",
+          "description": "Mautic End User Documentation",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-05-25T18:20:31Z",
+            "owner": "mautic",
+            "repo": "documentation",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mautic/mautic-zapier",
+          "description": "Zapier JS app communicating with Mautic",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-18T00:40:12Z",
+            "owner": "mautic",
+            "repo": "mautic-zapier",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mautic/composer-plugin",
+          "description": "A composer plugin that mautic plugin and theme developers can use to distribute their code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-10-27T04:19:36Z",
+            "owner": "mautic",
+            "repo": "composer-plugin",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Official Repositories"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ChrisRAoW/mautic-rss-to-email-bundle",
+          "description": "Mautic plugin to send emails from RSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-06-27T12:40:48Z",
+            "owner": "ChrisRAoW",
+            "repo": "mautic-rss-to-email-bundle",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Logicify/mautic-advanced-templates-bundle",
+          "description": "Plugin extends default email template capabilities with TWIG block",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-07-01T11:50:46Z",
+            "owner": "Logicify",
+            "repo": "mautic-advanced-templates-bundle",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "thirdset/ThirdSetMauticTimingBundle",
+          "description": "Mautic plugin for setting the timing (hours of the day, days of the week, etc) for when to trigger campaign events.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-06-09T17:02:27Z",
+            "owner": "thirdset",
+            "repo": "ThirdSetMauticTimingBundle",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "thirdset/ThirdSetMauticTimingBundle",
+          "description": "Mautic plugin for setting the timing (hours of the day, days of the week, etc) for when to trigger campaign events.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-06-09T17:02:27Z",
+            "owner": "thirdset",
+            "repo": "ThirdSetMauticTimingBundle",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KonstantinCodes/mautic-recaptcha",
+          "description": "This Plugin brings reCAPTCHA integration to mautic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-02-10T06:11:32Z",
+            "owner": "KonstantinCodes",
+            "repo": "mautic-recaptcha",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mtcextendee/mautic-recommender-bundle",
+          "description": "The first product recommendations system for Mautic",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-11-16T03:07:57Z",
+            "owner": "mtcextendee",
+            "repo": "mautic-recommender-bundle",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "azamuddin/mautic-mailgun-plugin",
+          "description": "Mautic plugin to add mailgun transport",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-05-03T07:23:49Z",
+            "owner": "azamuddin",
+            "repo": "mautic-mailgun-plugin",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TheDMSGroup/mautic-extended-field",
+          "description": "Extends Mautic custom fields for scalability and HIPAA/PCI compliance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-08-17T09:43:08Z",
+            "owner": "TheDMSGroup",
+            "repo": "mautic-extended-field",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mautic/mautic-typo3",
+          "description": "Add-on TYPO3 extension",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-13T14:22:01Z",
+            "owner": "mautic",
+            "repo": "mautic-typo3",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TheDMSGroup/mautic-contact-ledger",
+          "description": "Historical accounting for contacts in Mautic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-10-09T21:12:10Z",
+            "owner": "TheDMSGroup",
+            "repo": "mautic-contact-ledger",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mtcextendee/mautic-international-phone-input-bundle",
+          "description": "This plugin brings International phone input to Mauti forms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-01-07T20:21:44Z",
+            "owner": "mtcextendee",
+            "repo": "mautic-international-phone-input-bundle",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Monogramm/MauticLdapAuthBundle",
+          "description": "Enables LDAP authentication for mautic 2 and newer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-09-04T17:42:00Z",
+            "owner": "Monogramm",
+            "repo": "MauticLdapAuthBundle",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mtcextendee/mautic-badge-generator-bundle",
+          "description": "Badge PDF generator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-02-23T13:07:25Z",
+            "owner": "mtcextendee",
+            "repo": "mautic-badge-generator-bundle",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hostnetbr/mautic-googleauthenticator",
+          "description": "Enables Google Authentication on Mautic Login",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-04-25T16:13:01Z",
+            "owner": "hostnetbr",
+            "repo": "mautic-googleauthenticator",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/mtcextendee/mautic-plivo-bundle",
+          "description": "Plivo SMS integration for Mautic",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-03-15T09:02:14Z",
+            "owner": "mtcextendee",
+            "repo": "mautic-plivo-bundle",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mautic-inc/plugin-slooce",
+          "description": "Slooce SMS Transport for Mautic",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2023-08-30T13:24:20Z",
+            "owner": "acquia",
+            "repo": "mc-cs-plugin-slooce",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hostnetbr/mautic-namesanitizer",
+          "description": "Um plugin do Mautic que faz uma correção e limpeza nos nomes dos contatos cadastrados",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-10-31T18:13:38Z",
+            "owner": "hostnetbr",
+            "repo": "HostnetNameSanitizerBundle",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mtcextendee/mautic-extendee-form-tab-bundle",
+          "description": "FromTab bundle added related contacts form results to contacts profile.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "mtcextendee/mautic-extendee-webhook-response-bundle",
+          "description": "Get Webhook Response from Mautic",
+          "children": []
+        }
+      ],
+      "title": "Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "escopez/mautic-form-submit",
+          "description": "PHP library to forward data to a Mautic form",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-08-29T13:08:06Z",
+            "owner": "escopecz",
+            "repo": "mautic-form-submit",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "luk4s/mautic-rails",
+          "description": "Mautic ruby client / wrapper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-05-05T08:17:50Z",
+            "owner": "luk4s",
+            "repo": "mautic-rails",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/moisesbaez/mautic-tracking",
+          "description": "React Tracking tool for Mautic",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-06T01:39:25Z",
+            "owner": "moisesbaez",
+            "repo": "mautic-tracking",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "powerticmkt/mautic_tracking_api",
+          "description": "Mautic plugin for App User Monitoring and Tracking easily for Dart and Flutter. Also listed at pub.dev.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2020-01-12T17:00:02Z",
+            "owner": "powerticmkt",
+            "repo": "dart-mautic-tracking-api",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "powerticmkt/mautic_api",
+          "description": "Mautic API Wrapper for Dart and Flutter. Also listed at pub.dev",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2020-01-12T17:18:15Z",
+            "owner": "powerticmkt",
+            "repo": "dart-mautic-api",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mjclemente/mauticcfml",
+          "description": "A CFML wrapper for the Mautic marketing and campaign management API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ColdFusion",
+            "last_commit": "2020-05-14T13:22:40Z",
+            "owner": "mjclemente",
+            "repo": "mauticcfml",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Logicify/mautic-theme-skeleton",
+          "description": "A skeleton for the Mautic theme with configured SCSS compiler, css inliner and html minifier",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-02-08T16:17:08Z",
+            "owner": "Logicify",
+            "repo": "mautic-theme-skeleton",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jojotjebaby/mautic-theme-builder",
+          "description": "A theme builder for Mautic",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2017-08-23T05:31:49Z",
+            "owner": "joris-ati4",
+            "repo": "mautic-theme-builder",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "powerticmkt/new-blank-theme",
+          "description": "Full width blank theme for Mautic",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Twig",
+            "last_commit": "2020-09-16T11:48:29Z",
+            "owner": "powerticmkt",
+            "repo": "new-blank-theme",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "moskoweb/Simple-Email-Theme",
+          "description": "A simple, elegant and responsive template that allows you to fully customize by the Mautic email builder",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-04-09T16:14:25Z",
+            "owner": "moskoweb",
+            "repo": "Simple-Email-Theme",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Themes"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T05:18:18.183Z",
+    "original_repository": "luizeof/awesome-mautic",
+    "original_repository_sha": "808eab654ddfd792b756c51a52faa993e602d6ab",
+    "enhanced_repository": "enhansome/enhansome-mautic",
+    "enhanced_repository_description": null,
+    "title": "Awesome Mautic with stars"
+  }
+}
