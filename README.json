@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-13T20:16:51Z",
+            "last_commit": "2026-08-14T15:04:33Z",
             "owner": "mautic",
             "repo": "mautic",
-            "stars": 10330
+            "stars": 10338
           }
         },
         {
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-06-16T06:11:03Z",
+            "last_commit": "2026-08-14T14:08:31Z",
             "owner": "mautic",
             "repo": "api-library",
             "stars": 203
@@ -514,7 +514,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T05:18:18.183Z",
+    "last_updated": "2026-08-15T04:06:37.518Z",
     "original_repository": "luizeof/awesome-mautic",
     "original_repository_sha": "808eab654ddfd792b756c51a52faa993e602d6ab",
     "enhanced_repository": "enhansome/enhansome-mautic",
