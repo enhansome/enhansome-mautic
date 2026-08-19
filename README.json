@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12204147,
             "language": "PHP",
-            "last_commit": "2026-08-18T14:55:18Z",
+            "last_commit": "2026-08-19T09:01:28Z",
             "owner": "mautic",
             "repo": "mautic",
-            "stars": 10366
+            "stars": 10367
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39786479,
             "language": "Shell",
             "last_commit": "2026-05-05T17:25:35Z",
             "owner": "mautic",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29319882,
             "language": "PHP",
             "last_commit": "2026-08-14T14:08:31Z",
             "owner": "mautic",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27398092,
             "language": "PHP",
             "last_commit": "2026-08-08T06:48:09Z",
             "owner": "mautic",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 26787417,
             "language": "JavaScript",
             "last_commit": "2020-05-25T18:20:31Z",
             "owner": "mautic",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94204444,
             "language": "JavaScript",
             "last_commit": "2025-02-18T00:40:12Z",
             "owner": "mautic",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113787570,
             "language": "PHP",
             "last_commit": "2021-10-27T04:19:36Z",
             "owner": "mautic",
@@ -105,7 +112,7 @@
       "title": "Official Repositories"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121305546,
             "language": "PHP",
             "last_commit": "2024-06-27T12:40:48Z",
             "owner": "ChrisRAoW",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156523126,
             "language": "PHP",
             "last_commit": "2024-07-01T11:50:46Z",
             "owner": "Logicify",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70552662,
             "language": "PHP",
             "last_commit": "2022-06-09T17:02:27Z",
             "owner": "thirdset",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70552662,
             "language": "PHP",
             "last_commit": "2022-06-09T17:02:27Z",
             "owner": "thirdset",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116129269,
             "language": "PHP",
             "last_commit": "2023-02-10T06:11:32Z",
             "owner": "KonstantinCodes",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 152300154,
             "language": "PHP",
             "last_commit": "2021-11-16T03:07:57Z",
             "owner": "mtcextendee",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 176640015,
             "language": "PHP",
             "last_commit": "2020-05-03T07:23:49Z",
             "owner": "azamuddin",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114798875,
             "language": "PHP",
             "last_commit": "2021-08-17T09:43:08Z",
             "owner": "TheDMSGroup",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27720279,
             "language": "PHP",
             "last_commit": "2026-08-13T14:22:01Z",
             "owner": "mautic",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121566111,
             "language": "PHP",
             "last_commit": "2020-10-09T21:12:10Z",
             "owner": "TheDMSGroup",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 203769511,
             "language": "JavaScript",
             "last_commit": "2025-01-07T20:21:44Z",
             "owner": "mtcextendee",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 179111269,
             "language": "PHP",
             "last_commit": "2022-09-04T17:42:00Z",
             "owner": "Monogramm",
@@ -282,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 176020610,
             "language": "PHP",
             "last_commit": "2022-02-23T13:07:25Z",
             "owner": "mtcextendee",
@@ -296,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 123622129,
             "language": "PHP",
             "last_commit": "2022-04-25T16:13:01Z",
             "owner": "hostnetbr",
@@ -310,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 170730885,
             "language": "PHP",
             "last_commit": "2020-03-15T09:02:14Z",
             "owner": "mtcextendee",
@@ -324,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 136148398,
             "language": "PHP",
             "last_commit": "2023-08-30T13:24:20Z",
             "owner": "acquia",
@@ -338,30 +361,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 215642341,
             "language": "PHP",
             "last_commit": "2024-10-31T18:13:38Z",
             "owner": "hostnetbr",
             "repo": "HostnetNameSanitizerBundle",
             "stars": 4
           }
-        },
-        {
-          "node_type": "item",
-          "title": "mtcextendee/mautic-extendee-form-tab-bundle",
-          "description": "FromTab bundle added related contacts form results to contacts profile.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "mtcextendee/mautic-extendee-webhook-response-bundle",
-          "description": "Get Webhook Response from Mautic",
-          "children": []
         }
       ],
       "title": "Plugins"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -370,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89398252,
             "language": "PHP",
             "last_commit": "2024-08-29T13:08:06Z",
             "owner": "escopecz",
@@ -384,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108631998,
             "language": "Ruby",
             "last_commit": "2025-05-05T08:17:50Z",
             "owner": "luk4s",
@@ -398,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 170784806,
             "language": "JavaScript",
             "last_commit": "2023-01-06T01:39:25Z",
             "owner": "moisesbaez",
@@ -412,6 +427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 233313265,
             "language": "Dart",
             "last_commit": "2020-01-12T17:00:02Z",
             "owner": "powerticmkt",
@@ -426,6 +442,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 232847345,
             "language": "Dart",
             "last_commit": "2020-01-12T17:18:15Z",
             "owner": "powerticmkt",
@@ -440,6 +457,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 263921146,
             "language": "ColdFusion",
             "last_commit": "2020-05-14T13:22:40Z",
             "owner": "mjclemente",
@@ -451,7 +469,7 @@
       "title": "Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -460,6 +478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158459327,
             "language": "JavaScript",
             "last_commit": "2019-02-08T16:17:08Z",
             "owner": "Logicify",
@@ -474,6 +493,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101140822,
             "language": "PHP",
             "last_commit": "2017-08-23T05:31:49Z",
             "owner": "joris-ati4",
@@ -488,6 +508,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109395031,
             "language": "Twig",
             "last_commit": "2020-09-16T11:48:29Z",
             "owner": "powerticmkt",
@@ -502,6 +523,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146847198,
             "language": "HTML",
             "last_commit": "2020-04-09T16:14:25Z",
             "owner": "moskoweb",
@@ -514,8 +536,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:18:28.662Z",
+    "last_updated": "2026-08-19T12:38:34.101Z",
     "original_repository": "luizeof/awesome-mautic",
+    "original_repository_id": 127617754,
     "original_repository_sha": "808eab654ddfd792b756c51a52faa993e602d6ab",
     "enhanced_repository": "enhansome/enhansome-mautic",
     "enhanced_repository_description": null,
