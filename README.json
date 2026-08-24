@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T14:23:55Z",
             "owner": "mautic",
             "repo": "mautic",
-            "stars": 10380
+            "stars": 10384
           }
         },
         {
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:19:13.585Z",
+    "last_updated": "2026-08-24T04:24:45.744Z",
     "original_repository": "luizeof/awesome-mautic",
     "original_repository_id": 127617754,
     "original_repository_sha": "808eab654ddfd792b756c51a52faa993e602d6ab",
