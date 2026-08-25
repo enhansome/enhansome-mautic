@@ -326,7 +326,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mtcextendee/mautic-plivo-bundle",
+          "title": "mtcextendee/mautic-plivo-bundle",
           "description": "Plivo SMS integration for Mautic",
           "children": [],
           "repo_info": {
@@ -407,7 +407,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/moisesbaez/mautic-tracking",
+          "title": "moisesbaez/mautic-tracking",
           "description": "React Tracking tool for Mautic",
           "children": [],
           "repo_info": {
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:19:36.402Z",
+    "last_updated": "2026-08-25T06:34:14.099Z",
     "original_repository": "luizeof/awesome-mautic",
     "original_repository_id": 127617754,
     "original_repository_sha": "808eab654ddfd792b756c51a52faa993e602d6ab",
