@@ -12,7 +12,7 @@
             "archived": false,
             "id": 12204147,
             "language": "PHP",
-            "last_commit": "2026-08-26T13:13:09Z",
+            "last_commit": "2026-08-27T14:31:59Z",
             "owner": "mautic",
             "repo": "mautic",
             "stars": 10399
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:49:05.756Z",
+    "last_updated": "2026-08-27T14:35:36.778Z",
     "original_repository_info": {
       "archived": false,
       "id": 127617754,
