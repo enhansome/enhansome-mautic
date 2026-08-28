@@ -12,11 +12,12 @@
             "archived": false,
             "id": 12204147,
             "language": "PHP",
-            "last_commit": "2026-08-27T14:31:59Z",
+            "last_commit": "2026-08-28T14:37:48Z",
             "owner": "mautic",
             "repo": "mautic",
-            "stars": 10399
-          }
+            "stars": 10407
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "mautic",
             "repo": "docker-mautic",
             "stars": 481
-          }
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "mautic",
             "repo": "api-library",
             "stars": 203
-          }
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "mautic",
             "repo": "mautic-wordpress",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "mautic",
             "repo": "documentation",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "mautic",
             "repo": "mautic-zapier",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "mautic",
             "repo": "composer-plugin",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         }
       ],
       "title": "Official Repositories"
@@ -127,7 +134,8 @@
             "owner": "ChrisRAoW",
             "repo": "mautic-rss-to-email-bundle",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         },
         {
           "node_type": "item",
@@ -141,8 +149,9 @@
             "last_commit": "2024-07-01T11:50:46Z",
             "owner": "Logicify",
             "repo": "mautic-advanced-templates-bundle",
-            "stars": 97
-          }
+            "stars": 96
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "thirdset",
             "repo": "ThirdSetMauticTimingBundle",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "thirdset",
             "repo": "ThirdSetMauticTimingBundle",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "KonstantinCodes",
             "repo": "mautic-recaptcha",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "mtcextendee",
             "repo": "mautic-recommender-bundle",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "azamuddin",
             "repo": "mautic-mailgun-plugin",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "TheDMSGroup",
             "repo": "mautic-extended-field",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "mautic",
             "repo": "mautic-typo3",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "TheDMSGroup",
             "repo": "mautic-contact-ledger",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "mtcextendee",
             "repo": "mautic-international-phone-input-bundle",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "Monogramm",
             "repo": "MauticLdapAuthBundle",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "mtcextendee",
             "repo": "mautic-badge-generator-bundle",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "hostnetbr",
             "repo": "mautic-googleauthenticator",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "mtcextendee",
             "repo": "mautic-plivo-bundle",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "acquia",
             "repo": "mc-cs-plugin-slooce",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "hostnetbr",
             "repo": "HostnetNameSanitizerBundle",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         }
       ],
       "title": "Plugins"
@@ -388,7 +412,8 @@
             "owner": "escopecz",
             "repo": "mautic-form-submit",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "luk4s",
             "repo": "mautic-rails",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         },
         {
           "node_type": "item",
@@ -418,7 +444,8 @@
             "owner": "moisesbaez",
             "repo": "mautic-tracking",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         },
         {
           "node_type": "item",
@@ -433,7 +460,8 @@
             "owner": "powerticmkt",
             "repo": "dart-mautic-tracking-api",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         },
         {
           "node_type": "item",
@@ -448,7 +476,8 @@
             "owner": "powerticmkt",
             "repo": "dart-mautic-api",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         },
         {
           "node_type": "item",
@@ -463,7 +492,8 @@
             "owner": "mjclemente",
             "repo": "mauticcfml",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         }
       ],
       "title": "Libraries"
@@ -484,7 +514,8 @@
             "owner": "Logicify",
             "repo": "mautic-theme-skeleton",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         },
         {
           "node_type": "item",
@@ -499,7 +530,8 @@
             "owner": "joris-ati4",
             "repo": "mautic-theme-builder",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         },
         {
           "node_type": "item",
@@ -514,7 +546,8 @@
             "owner": "powerticmkt",
             "repo": "new-blank-theme",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         },
         {
           "node_type": "item",
@@ -529,14 +562,15 @@
             "owner": "moskoweb",
             "repo": "Simple-Email-Theme",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T15:38:12.587Z"
         }
       ],
       "title": "Themes"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:35:36.778Z",
+    "last_updated": "2026-08-28T15:38:12.587Z",
     "original_repository_info": {
       "archived": false,
       "id": 127617754,
