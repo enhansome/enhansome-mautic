@@ -19,7 +19,7 @@
             "open_issues": 201,
             "owner": "mautic",
             "repo": "mautic",
-            "stars": 10531,
+            "stars": 10530,
             "topics": [
               "digital-experience-platform",
               "digitalexperienceplatform",
@@ -868,7 +868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T08:16:01.426Z",
+    "last_updated": "2026-09-20T08:47:47.021Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Mautic Plugins, Blogs, Repositories and Themes",
