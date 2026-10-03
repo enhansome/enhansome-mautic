@@ -15,11 +15,11 @@
             "id": 12204147,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T19:08:53Z",
-            "open_issues": 225,
+            "last_commit": "2026-10-02T13:47:31Z",
+            "open_issues": 227,
             "owner": "mautic",
             "repo": "mautic",
-            "stars": 10669,
+            "stars": 10683,
             "topics": [
               "digital-experience-platform",
               "digitalexperienceplatform",
@@ -868,7 +868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:01:14.020Z",
+    "last_updated": "2026-10-03T04:54:54.233Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Mautic Plugins, Blogs, Repositories and Themes",
