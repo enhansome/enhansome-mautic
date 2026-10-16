@@ -2,7 +2,7 @@
 
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-A Curated List of [Mautic](https://github.com/mautic/mautic) ⭐ 10,774 | 🐛 294 | 🌐 PHP | 📅 2026-10-15 Plugins, Blogs, Repositories and Themes.
+A Curated List of [Mautic](https://github.com/mautic/mautic) ⭐ 10,780 | 🐛 294 | 🌐 PHP | 📅 2026-10-16 Plugins, Blogs, Repositories and Themes.
 
 > Do you have a plugin, theme or snippet? [Make a pull request!](https://github.com/luizeof/awesome-mautic/pulls)
 
@@ -20,7 +20,7 @@ A Curated List of [Mautic](https://github.com/mautic/mautic) ⭐ 10,774 | 🐛 2
 
 ## Official Repositories
 
-* [mautic/mautic](https://github.com/mautic/mautic) ⭐ 10,774 | 🐛 294 | 🌐 PHP | 📅 2026-10-15 - Mautic Open Source Marketing Automation Software Official Repository
+* [mautic/mautic](https://github.com/mautic/mautic) ⭐ 10,780 | 🐛 294 | 🌐 PHP | 📅 2026-10-16 - Mautic Open Source Marketing Automation Software Official Repository
 * [mautic/docker-mautic](https://github.com/mautic/docker-mautic) ⭐ 481 | 🐛 32 | 🌐 Shell | 📅 2026-05-05 - Official Docker Image for Mautic
 * [mauitic/api-library](https://github.com/mautic/api-library) ⭐ 202 | 🐛 48 | 🌐 PHP | 📅 2026-10-07 - Mautic PHP API Library Wrapper
 * [mautic/wordpress](https://github.com/mautic/mautic-wordpress) ⭐ 137 | 🐛 24 | 🌐 PHP | 📅 2026-08-08 - Wordpress Plugin to add Tracking Code and Custom Shortcodes for using Forms, Tags, Focus and Dinamic Content on Wordpress Pages
@@ -39,7 +39,7 @@ A Curated List of [Mautic](https://github.com/mautic/mautic) ⭐ 10,774 | 🐛 2
 * [mtcextendee/mautic-recommender-bundle](https://github.com/mtcextendee/mautic-recommender-bundle) ⭐ 50 | 🐛 6 | 🌐 PHP | 📅 2021-11-16 - The first product recommendations system for Mautic
 * [azamuddin/mautic-mailgun-plugin](https://github.com/azamuddin/mautic-mailgun-plugin) ⭐ 43 | 🐛 6 | 🌐 PHP | 📅 2020-05-03 - Mautic plugin to add mailgun transport
 * [TheDMSGroup/mautic-extended-field](https://github.com/TheDMSGroup/mautic-extended-field) ⭐ 30 | 🐛 14 | 🌐 PHP | 📅 2021-08-17 - Extends Mautic custom fields for scalability and HIPAA/PCI compliance.
-* [mautic/mautic-typo3](https://github.com/mautic/mautic-typo3) ⭐ 23 | 🐛 18 | 🌐 PHP | 📅 2026-09-08 - Add-on TYPO3 extension
+* [mautic/mautic-typo3](https://github.com/mautic/mautic-typo3) ⭐ 23 | 🐛 17 | 🌐 PHP | 📅 2026-10-15 - Add-on TYPO3 extension
 * [TheDMSGroup/mautic-contact-ledger](https://github.com/TheDMSGroup/mautic-contact-ledger) ⭐ 22 | 🐛 4 | 🌐 PHP | 📅 2020-10-09 - Historical accounting for contacts in Mautic.
 * [mtcextendee/mautic-international-phone-input-bundle](https://github.com/mtcextendee/mautic-international-phone-input-bundle) ⭐ 13 | 🐛 4 | 🌐 JavaScript | 📅 2025-01-07 - This plugin brings International phone input to Mauti forms
 * [Monogramm/MauticLdapAuthBundle](https://github.com/Monogramm/MauticLdapAuthBundle) ⭐ 11 | 🐛 4 | 🌐 PHP | 📅 2022-09-04 - Enables LDAP authentication for mautic 2 and newer
@@ -79,4 +79,4 @@ This Awesome List is Sponsored by  <a href="https://powertic.com/">Powertic</a>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
