@@ -2,7 +2,7 @@
 
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-A Curated List of [Mautic](https://github.com/mautic/mautic) ⭐ 10,877 | 🐛 349 | 🌐 PHP | 📅 2026-10-30 Plugins, Blogs, Repositories and Themes.
+A Curated List of [Mautic](https://github.com/mautic/mautic) ⭐ 10,883 | 🐛 352 | 🌐 PHP | 📅 2026-10-31 Plugins, Blogs, Repositories and Themes.
 
 > Do you have a plugin, theme or snippet? [Make a pull request!](https://github.com/luizeof/awesome-mautic/pulls)
 
@@ -20,8 +20,8 @@ A Curated List of [Mautic](https://github.com/mautic/mautic) ⭐ 10,877 | 🐛 3
 
 ## Official Repositories
 
-* [mautic/mautic](https://github.com/mautic/mautic) ⭐ 10,877 | 🐛 349 | 🌐 PHP | 📅 2026-10-30 - Mautic Open Source Marketing Automation Software Official Repository
-* [mautic/docker-mautic](https://github.com/mautic/docker-mautic) ⭐ 482 | 🐛 34 | 🌐 Shell | 📅 2026-05-05 - Official Docker Image for Mautic
+* [mautic/mautic](https://github.com/mautic/mautic) ⭐ 10,883 | 🐛 352 | 🌐 PHP | 📅 2026-10-31 - Mautic Open Source Marketing Automation Software Official Repository
+* [mautic/docker-mautic](https://github.com/mautic/docker-mautic) ⭐ 483 | 🐛 34 | 🌐 Shell | 📅 2026-05-05 - Official Docker Image for Mautic
 * [mauitic/api-library](https://github.com/mautic/api-library) ⭐ 202 | 🐛 49 | 🌐 PHP | 📅 2026-10-07 - Mautic PHP API Library Wrapper
 * [mautic/wordpress](https://github.com/mautic/mautic-wordpress) ⭐ 137 | 🐛 24 | 🌐 PHP | 📅 2026-08-08 - Wordpress Plugin to add Tracking Code and Custom Shortcodes for using Forms, Tags, Focus and Dinamic Content on Wordpress Pages
 * [mautic/documentation](https://github.com/mautic/documentation) ⚠️ Archived - Mautic End User Documentation
@@ -31,7 +31,7 @@ A Curated List of [Mautic](https://github.com/mautic/mautic) ⭐ 10,877 | 🐛 3
 
 ## Plugins
 
-* [ChrisRAoW/mautic-rss-to-email-bundle](https://github.com/ChrisRAoW/mautic-rss-to-email-bundle) ⭐ 103 | 🐛 13 | 🌐 PHP | 📅 2024-06-27 - Mautic plugin to send emails from RSS
+* [ChrisRAoW/mautic-rss-to-email-bundle](https://github.com/ChrisRAoW/mautic-rss-to-email-bundle) ⭐ 103 | 🐛 14 | 🌐 PHP | 📅 2024-06-27 - Mautic plugin to send emails from RSS
 * [Logicify/mautic-advanced-templates-bundle](https://github.com/Logicify/mautic-advanced-templates-bundle) ⭐ 96 | 🐛 18 | 🌐 PHP | 📅 2024-07-01 - Plugin extends default email template capabilities with TWIG block
 * [thirdset/ThirdSetMauticTimingBundle](https://github.com/thirdset/ThirdSetMauticTimingBundle) ⭐ 64 | 🐛 3 | 🌐 PHP | 📅 2022-06-09 - Mautic plugin for setting the timing (hours of the day, days of the week, etc) for when to trigger campaign events.
 * [thirdset/ThirdSetMauticTimingBundle](https://github.com/thirdset/ThirdSetMauticTimingBundle) ⭐ 64 | 🐛 3 | 🌐 PHP | 📅 2022-06-09 - Mautic plugin for setting the timing (hours of the day, days of the week, etc) for when to trigger campaign events.
@@ -79,4 +79,4 @@ This Awesome List is Sponsored by  <a href="https://powertic.com/">Powertic</a>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
