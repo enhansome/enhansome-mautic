@@ -2,7 +2,7 @@
 
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-A Curated List of [Mautic](https://github.com/mautic/mautic) ⭐ 10,886 | 🐛 352 | 🌐 PHP | 📅 2026-10-31 Plugins, Blogs, Repositories and Themes.
+A Curated List of [Mautic](https://github.com/mautic/mautic) ⭐ 10,893 | 🐛 349 | 🌐 PHP | 📅 2026-11-02 Plugins, Blogs, Repositories and Themes.
 
 > Do you have a plugin, theme or snippet? [Make a pull request!](https://github.com/luizeof/awesome-mautic/pulls)
 
@@ -20,7 +20,7 @@ A Curated List of [Mautic](https://github.com/mautic/mautic) ⭐ 10,886 | 🐛 3
 
 ## Official Repositories
 
-* [mautic/mautic](https://github.com/mautic/mautic) ⭐ 10,886 | 🐛 352 | 🌐 PHP | 📅 2026-10-31 - Mautic Open Source Marketing Automation Software Official Repository
+* [mautic/mautic](https://github.com/mautic/mautic) ⭐ 10,893 | 🐛 349 | 🌐 PHP | 📅 2026-11-02 - Mautic Open Source Marketing Automation Software Official Repository
 * [mautic/docker-mautic](https://github.com/mautic/docker-mautic) ⭐ 483 | 🐛 34 | 🌐 Shell | 📅 2026-05-05 - Official Docker Image for Mautic
 * [mauitic/api-library](https://github.com/mautic/api-library) ⭐ 202 | 🐛 49 | 🌐 PHP | 📅 2026-10-07 - Mautic PHP API Library Wrapper
 * [mautic/wordpress](https://github.com/mautic/mautic-wordpress) ⭐ 137 | 🐛 24 | 🌐 PHP | 📅 2026-08-08 - Wordpress Plugin to add Tracking Code and Custom Shortcodes for using Forms, Tags, Focus and Dinamic Content on Wordpress Pages
@@ -71,7 +71,7 @@ A Curated List of [Mautic](https://github.com/mautic/mautic) ⭐ 10,886 | 🐛 3
 ## Projects
 
 * <https://mautibox.com/> - A (really) simple PR testing service for Mautic <https://mautibox.com>
-* [nickian/mautic-whitelabeler](https://github.com/nickian/mautic-whitelabeler) ⭐ 296 | 🐛 16 | 🌐 CSS | 📅 2024-10-23 - Easily change the logos, colors and company name in the Mautic user interface
+* [nickian/mautic-whitelabeler](https://github.com/nickian/mautic-whitelabeler) ⭐ 297 | 🐛 16 | 🌐 CSS | 📅 2024-10-23 - Easily change the logos, colors and company name in the Mautic user interface
 
 <hr />
 
@@ -79,4 +79,4 @@ This Awesome List is Sponsored by  <a href="https://powertic.com/">Powertic</a>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
