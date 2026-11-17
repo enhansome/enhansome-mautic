@@ -2,7 +2,7 @@
 
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-A Curated List of [Mautic](https://github.com/mautic/mautic) ⭐ 10,992 | 🐛 353 | 🌐 PHP | 📅 2026-11-16 Plugins, Blogs, Repositories and Themes.
+A Curated List of [Mautic](https://github.com/mautic/mautic) ⭐ 10,995 | 🐛 355 | 🌐 PHP | 📅 2026-11-17 Plugins, Blogs, Repositories and Themes.
 
 > Do you have a plugin, theme or snippet? [Make a pull request!](https://github.com/luizeof/awesome-mautic/pulls)
 
@@ -20,10 +20,10 @@ A Curated List of [Mautic](https://github.com/mautic/mautic) ⭐ 10,992 | 🐛 3
 
 ## Official Repositories
 
-* [mautic/mautic](https://github.com/mautic/mautic) ⭐ 10,992 | 🐛 353 | 🌐 PHP | 📅 2026-11-16 - Mautic Open Source Marketing Automation Software Official Repository
-* [mautic/docker-mautic](https://github.com/mautic/docker-mautic) ⭐ 482 | 🐛 34 | 🌐 Shell | 📅 2026-05-05 - Official Docker Image for Mautic
+* [mautic/mautic](https://github.com/mautic/mautic) ⭐ 10,995 | 🐛 355 | 🌐 PHP | 📅 2026-11-17 - Mautic Open Source Marketing Automation Software Official Repository
+* [mautic/docker-mautic](https://github.com/mautic/docker-mautic) ⭐ 483 | 🐛 34 | 🌐 Shell | 📅 2026-05-05 - Official Docker Image for Mautic
 * [mauitic/api-library](https://github.com/mautic/api-library) ⭐ 201 | 🐛 47 | 🌐 PHP | 📅 2026-11-10 - Mautic PHP API Library Wrapper
-* [mautic/wordpress](https://github.com/mautic/mautic-wordpress) ⭐ 137 | 🐛 24 | 🌐 PHP | 📅 2026-08-08 - Wordpress Plugin to add Tracking Code and Custom Shortcodes for using Forms, Tags, Focus and Dinamic Content on Wordpress Pages
+* [mautic/wordpress](https://github.com/mautic/mautic-wordpress) ⭐ 137 | 🐛 25 | 🌐 PHP | 📅 2026-08-08 - Wordpress Plugin to add Tracking Code and Custom Shortcodes for using Forms, Tags, Focus and Dinamic Content on Wordpress Pages
 * [mautic/documentation](https://github.com/mautic/documentation) ⚠️ Archived - Mautic End User Documentation
 * [mautic/mautic-zapier](https://github.com/mautic/mautic-zapier) ⭐ 23 | 🐛 9 | 🌐 JavaScript | 📅 2025-02-18 - Zapier JS app communicating with Mautic
 * [mautic/composer-plugin](https://github.com/mautic/composer-plugin) ⭐ 14 | 🐛 1 | 🌐 PHP | 📅 2021-10-27 - A composer plugin that mautic plugin and theme developers can use to distribute their code.
@@ -79,4 +79,4 @@ This Awesome List is Sponsored by  <a href="https://powertic.com/">Powertic</a>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
