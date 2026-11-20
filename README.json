@@ -15,11 +15,11 @@
             "id": 12204147,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T11:58:40Z",
-            "open_issues": 353,
+            "last_commit": "2026-11-19T22:39:10Z",
+            "open_issues": 373,
             "owner": "mautic",
             "repo": "mautic",
-            "stars": 11027,
+            "stars": 11054,
             "topics": [
               "digital-experience-platform",
               "digitalexperienceplatform",
@@ -49,11 +49,11 @@
             "id": 39786479,
             "language": "Shell",
             "license": null,
-            "last_commit": "2026-05-05T17:25:35Z",
-            "open_issues": 34,
+            "last_commit": "2026-11-19T16:42:09Z",
+            "open_issues": 35,
             "owner": "mautic",
             "repo": "docker-mautic",
-            "stars": 484,
+            "stars": 483,
             "topics": [
               "docker-image",
               "mautic"
@@ -73,8 +73,8 @@
             "id": 29319882,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-10T08:38:21Z",
-            "open_issues": 47,
+            "last_commit": "2026-11-20T12:05:12Z",
+            "open_issues": 46,
             "owner": "mautic",
             "repo": "api-library",
             "stars": 201,
@@ -868,7 +868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T12:04:00.894Z",
+    "last_updated": "2026-11-20T12:06:04.945Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Mautic Plugins, Blogs, Repositories and Themes",
