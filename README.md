@@ -2,7 +2,7 @@
 
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-A Curated List of [Mautic](https://github.com/mautic/mautic) ⭐ 11,128 | 🐛 376 | 🌐 PHP | 📅 2026-11-27 Plugins, Blogs, Repositories and Themes.
+A Curated List of [Mautic](https://github.com/mautic/mautic) ⭐ 11,132 | 🐛 375 | 🌐 PHP | 📅 2026-11-28 Plugins, Blogs, Repositories and Themes.
 
 > Do you have a plugin, theme or snippet? [Make a pull request!](https://github.com/luizeof/awesome-mautic/pulls)
 
@@ -20,8 +20,8 @@ A Curated List of [Mautic](https://github.com/mautic/mautic) ⭐ 11,128 | 🐛 3
 
 ## Official Repositories
 
-* [mautic/mautic](https://github.com/mautic/mautic) ⭐ 11,128 | 🐛 376 | 🌐 PHP | 📅 2026-11-27 - Mautic Open Source Marketing Automation Software Official Repository
-* [mautic/docker-mautic](https://github.com/mautic/docker-mautic) ⭐ 483 | 🐛 35 | 🌐 Shell | 📅 2026-11-19 - Official Docker Image for Mautic
+* [mautic/mautic](https://github.com/mautic/mautic) ⭐ 11,132 | 🐛 375 | 🌐 PHP | 📅 2026-11-28 - Mautic Open Source Marketing Automation Software Official Repository
+* [mautic/docker-mautic](https://github.com/mautic/docker-mautic) ⭐ 483 | 🐛 30 | 🌐 Shell | 📅 2026-11-27 - Official Docker Image for Mautic
 * [mauitic/api-library](https://github.com/mautic/api-library) ⭐ 201 | 🐛 46 | 🌐 PHP | 📅 2026-11-20 - Mautic PHP API Library Wrapper
 * [mautic/wordpress](https://github.com/mautic/mautic-wordpress) ⭐ 137 | 🐛 25 | 🌐 PHP | 📅 2026-08-08 - Wordpress Plugin to add Tracking Code and Custom Shortcodes for using Forms, Tags, Focus and Dinamic Content on Wordpress Pages
 * [mautic/documentation](https://github.com/mautic/documentation) ⚠️ Archived - Mautic End User Documentation
@@ -79,4 +79,4 @@ This Awesome List is Sponsored by  <a href="https://powertic.com/">Powertic</a>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
